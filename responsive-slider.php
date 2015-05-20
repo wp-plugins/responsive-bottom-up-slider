@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Responsive Bottom-Up Slider
-Plugin URI: http://www.wordpress.org/plugins/responsive-bottomup
+Plugin URI: http://www.wordpress.org/plugins/responsive-bottom-up-slider/
 Description: A simple, configurable slider that comes up from the bottom of the page after a certain amount of time. Perfect for newsletter signup prompts. Easily closed by the user. Javascript-based cookie handling is compatible with Wordpress front-end caching strategies.
 Author: Robert Peake
 Version: 1.0
