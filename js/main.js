@@ -13,6 +13,7 @@
             container.css('background-color','rgba(255,255,255,0.9)');
             container.css('border-top','1px solid #ccc');
             container.css('min-height','16.6%');
+            container.css('z-index','16777271');
             var close = $('<a>').html('×');
             close.css('font-size','large');
             close.css('float','right');
